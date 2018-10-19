@@ -142,7 +142,7 @@ MI-08,4/5/2018,0.39,0.45,400,Registered,0.013,C,Target Insyght
 DE-01,7/29/2018,0.46,0.38,884,Likely,0.021,C,Gravis Marketing
 TX-06,7/28/2018,0.39,0.48,576,Voters,-0.021,B,Public Policy Polling
 CO-06,9/14/2018,0.49,0.38,400,Likely,-0.024,B,"Normington, Petts & Associates"
-IN-03,5/31/2018,0.34,0.55,401,Likely,0.065,B,	Wilson Perkins Allen Opinion Research 
+IN-03,5/31/2018,0.34,0.55,401,Likely,0.065,B,Wilson Perkins Allen Opinion Research 
 TX-23,9/11/2018,0.43,0.51,495,Likely,-0.001,A,Siena College
 CA-22,6/24/2018,0.41,0.49,632,Likely,-0.021,B,Public Policy Polling
 IA-01,9/20/2018,0.52,0.37,502,Likely,-0.001,A,Siena College
@@ -331,7 +331,8 @@ NE-02,10/2/2018,0.4,0.49,400,Registered,0.0037,D,Meeting Street Research
 MN-07,9/10/2018,0.53,0.35,500,Likely,-0.0044,C,Anzalone Liszt Grove Research
 WA-08,10/9/2018,0.39,0.43,400,Registered,0.0015,A,Elway Research
 VA-10,10/9/2018,0.47,0.48,400,Likely,0.0054,D,Mclaughlin and Associates
-PA-17,10/7/2018,0.46,0.45,404,Likely,-0.0018,C,Global Strategy Group
+PA-17,10/8/2018,0.54,0.42,354,Likely,0.014,A,Monmouth University
+IL-12,10/7/2018,0.45,0.46,404,Likely,-0.0018,C,Global Strategy Group
 FL-06,10/4/2018,0.45,0.45,400,Likely,-0.0018,B,Greenberg Quinlan Rosner
 IL-13,10/1/2018,0.37,0.5,400,Likely,-0.0016,B,American Viewpoint
 NY-27,10/8/2018,0.42,0.42,400,Likely,-0.0049,B,Tulchin Research
@@ -382,3 +383,20 @@ NY-11,9/5/2018,0.39,0.47,509,Voters,-0.021,B,Public Policy Polling
 MI-02,7/15/2018,0.28,0.5,400,Likely,-0.034,B,Lake Research
 KS-03,10/16/2018,0.48,0.39,342,Likely,0.006,A,Siena College/NYT
 KS-03,10/16/2018,0.48,0.39,420,Likely,0.002,A,Siena College/New York Times
+AK-01,10/14/2018,0.47,0.49,500,Registered,0.006,D,Alaska Survey Research
+MI-11,10/14/2018,0.48,0.39,513,Likely,-0.036,C,Anzalone Liszt Grove
+UT-03,10/9/2018,0.13,0.67,143,Registered,-0.001,D,University of Utah
+UT-01,10/9/2018,0.2,0.52,143,Registered,-0.001,D,University of Utah
+NY-25,10/8/2018,0.53,0.36,485,Likely,0.006,A,Siena College
+TX-12,9/28/2018,0.3,0.62,590,Voters,-0.021,B,Public Policy Polling
+NY-11,9/5/2018,0.39,0.47,509,Voters,-0.021,B,Public Policy Polling
+WV-03,10/17/2018,0.41,0.46,469,Likely,0.003,A,Siena College/New York Times
+WV-03,10/14/2018,0.46,0.48,350,Likely,-0.002,A,Monmouth University
+NH=01,10/15/2018,0.49,0.22,220,Likely,-0.009,D,St. Anselm
+NH-01,10/15/2018,0.44,0.36,234,Likely,-0.009,D,St. Anselm
+AK-01,10/16/2018,0.44,0.48,500,Likely,-0.016,B,Lake Research
+VA-05,10/18/2018,0.45,0.43,319,Likely,-0.001,A,Siena College/New York Times
+PA-08,10/18/2018,0.53,0.39,408,Likely,0.002,A,Siena College
+FL-15,10/18/2018,0.44,0.43,431,Likely,0.002,A,Siena College
+CA-45,10/17/2018,0.46,0.5,400,Likely,0.046,B,Public Opinion Strategies
+FL-15,10/14/2018,0.45,0.45,591,Likely,0.002,A,SurveyUSA
