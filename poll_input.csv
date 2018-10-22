@@ -284,10 +284,10 @@ VA-02,4/17/2018,0.42,0.48,609,Voters,-0.021,B,Public Policy Polling
 VA-07,9/24/2018,0.48,0.46,329,Likely,-0.011,A,Monmout University
 VA-07,9/20/2018,0.47,0.47,400,Likely,-0.024,B,"Normington, Petts, & Associates"
 VA-07,9/12/2018,0.43,0.47,501,Likely,-0.001,A,Siena College
-PA-16,10/6/2018,0.42,0.5,270,Likely,-0.001,A,Siena College
-NY-01,10/6/2018,0.43,0.47,265,Likely,-0.001,A,Siena College
-NC-13,10/6/2018,0.42,0.46,435,Likely,-0.001,A,Siena College
-IL-14,10/6/2018,0.42,0.45,334,Likely,-0.001,A,Siena College
+PA-16,10/8/2018,0.42,0.5,532,Likely,-0.001,A,Siena College
+NY-01,10/8/2018,0.41,0.49,502,Likely,-0.001,A,Siena College
+NC-13,10/8/2018,0.41,0.47,500,Likely,-0.001,A,Siena College
+IL-14,10/8/2018,0.43,0.47,501,Likely,-0.001,A,Siena College
 TX-23,10/4/2018,0.3,0.55,400,Likely,0,D,GS Strategy group
 NM-02,10/2/2018,0.45,0.49,400,Likely,-0.007,B,Tarrance Group
 FL-26,10/1/2018,0.5,0.48,500,Likely,0,B,GBA Strategies
@@ -334,7 +334,7 @@ NJ-03,10/4/2018,0.4,0.44,400,Likely,-0.003,B,National Research
 IL-12,7/30/2018,0.41,0.5,400,Likely,-0.0018,C,Global Strategy
 AK-01,10/6/2018,0.46,0.5,500,Likely,0.04,D,Alaska Survey Research
 AK-01,10/12/2018,0.43,0.46,645,Voters,-0.022,B,Public Policy Polling
-MN-08,10/11/2018,0.29,0.54,188,Likely,0.005,A,Siena College
+MN-08,10/14/2018,0.34,0.49,507,Likely,-0.001,A,Siena College
 WA-03,10/11/2018,0.45,0.43,400,Likely,-0.034,B,Lake Research
 AZ-01,10/10/2018,0.38,0.44,943,Likely,0.042,D,Go Right Strategies
 NY-01,10/10/2018,0.45,0.5,500,Likely,-0.017,B,GBA Strategies
@@ -343,9 +343,9 @@ NV-04,10/8/2018,0.37,0.41,400,Likely,0.054,B,Moore Information
 IA-01,10/4/2018,0.44,0.43,400,Registered,0.05,C,The Polling Company
 TX-17,9/1/2018,0.38,0.54,961,Registered,-0.04,D,Change Research
 PA-01,10/4/2018,0.42,0.5,400,Likely,-0.036,B,Public Opinion Strategies
-TX-23,10/14/2018,0.34,0.56,263,Likely,0.007,A,Siena College/NYT
-NJ-11,10/4/2018,0.5,0.37,231,Likely,0.007,A,Siena College/NYT
-CO-06,10/4/2018,0.44,0.41,230,Likely,0.007,A,Siena College/NYT
+TX-23,10/18/2018,0.38,0.53,488,Likely,0.007,A,Siena College/NYT
+NJ-11,10/17/2018,0.49,0.38,487,Likely,0.007,A,Siena College/NYT
+CO-06,10/17/2018,0.47,0.38,506,Likely,0.007,A,Siena College/NYT
 PA-01,10/14/2018,0.5,0.43,570,Likely,0.006,A,Siena College
 PA-07,10/14/2018,0.45,0.34,585,Registered,-0.014,D,DeSales University
 NH-02,10/12/2018,0.44,0.25,461,Likely,-0.003,B,Emerson College
