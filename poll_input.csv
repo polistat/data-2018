@@ -1,6 +1,7 @@
 district_name,date,dem_percent,rep_percent,sample_size,registered_voter,pollster_lean,pollster_grade,pollster_name
 NC-07,8/22/2018,0.44,0.4,500,Likely,-0.038,D,Lincoln Park Strategies
-NC-09,10/3/2018,0.42,0.46,448,Likely,-0.001,A,Siena College
+NC-09,10/5/2018,0.42,0.47,502,Likely,-0.001,A,Siena College
+NC-09,10/5/2018,0.43,0.44,502,Registered,-0.001,A,Siena College
 OH-12,9/6/2018,0.46,0.47,500,Likely,-0.01,B,GBA Strategies
 KY-06,9/7/2018,0.47,0.47,600,Likely,0.0012,C,Rasmussen Reports/Pulse Opinion Research
 AR-04,9/7/2018,0.24,0.54,423,Likely,0.011,B,Hendrix College
