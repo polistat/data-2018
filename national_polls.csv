@@ -42,4 +42,8 @@ date,dem_percent,rep_percent,sample_size,registered_voter,pollster_lean,pollster
 10/17/2018,0.51,0.42,975,Registered,-0.015,A,Harris Interactive
 10/19/2018,0.49,0.41,3360,Likely,0.004,C,CBS News
 10/17/2018,0.5,0.41,645,Likely,0.008,A,NBC News/WSJ
-10/20/2018,0.55,0.42,284,Likely,-0.004,C,USC Dornsife/LA Times
+10/20/2018,0.55,0.42,2284,Likely,-0.004,C,USC Dornsife/LA Times
+10/22/2018,0.48,0.43,2112,Likely,0,B,Ipsos
+10/20/2018,0.44,0.38,1000,Registered,0,C,Harris Interactive
+10/19/2018,0.45,0.39,1968,Registered,0,B,Morning Consult
+10/18/2018,0.47,0.44,2500,Likely,0,C,Rasmussen
