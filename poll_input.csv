@@ -369,7 +369,7 @@ FL-27,10/14/2018,0.44,0.39,500,Likely,-0.041,C,Anzalone Liszt
 WV-03,10/14/2018,0.46,0.48,350,Likely,-0.001,A,Monmouth
 IA-01,10/13/2018,0.45,0.43,400,Registered,0.05,C,The Polling Company
 NY-22,10/13/2018,0.42,0.5,400,Likely,0.05,C,The Polling Company
-MI-11,10/13/2018,0.36,0.35,400,Likely,0.046,B,harper Polling
+MI-11,10/13/2018,0.36,0.35,400,Likely,0.046,B,Harper Polling
 NY-27,10/11/2018,0.43,0.46,490,Likely,0.006,A,Siena College
 PA-16,10/10/2018,0.48,0.49,548,Likely,-0.031,D,DCCC Targeting Team
 NY-11,9/5/2018,0.39,0.47,509,Voters,-0.021,B,Public Policy Polling
@@ -386,8 +386,8 @@ WV-03,10/14/2018,0.46,0.48,350,Likely,-0.002,A,Monmouth University
 NH-02,10/15/2018,0.49,0.22,220,Likely,-0.009,D,St. Anselm
 NH-01,10/15/2018,0.44,0.36,234,Likely,-0.009,D,St. Anselm
 AK-01,10/16/2018,0.44,0.48,500,Likely,-0.016,B,Lake Research
-PA-08,10/19/2018,0.52,0.4,506,Likely,0.002,A,Siena College
-FL-15,10/19/2018,0.43,0.43,499,Likely,0.002,A,Siena College
+PA-08,10/19/2018,0.52,0.4,506,Likely,0.002,A,Siena College/NYT
+FL-15,10/19/2018,0.43,0.43,499,Likely,0.002,A,Siena College/NYT
 CA-45,10/17/2018,0.46,0.5,400,Likely,0.046,B,Public Opinion Strategies
 FL-15,10/14/2018,0.45,0.45,591,Likely,0.002,A,SurveyUSA
 PA-07,10/18/2018,0.48,0.41,411,Likely,-0.007,A,Muhlenberg College
@@ -409,8 +409,8 @@ OK-05,10/15/2018,0.35,0.51,974,Likely,0.047,D,VCreek/AMG
 VT-01,10/14/2018,0.55,0.18,974,Likely,0.033,B,Braun Research
 OH-12,10/13/2018,0.46,0.48,639,Likely,-0.025,B,Clarity Campaign Labs
 ME-02,10/12/2018,0.48,0.42,400,Likely,-0.016,C,Global Strategy Group
-IL-12,10/22/2018,0.49,0.39,502,Likely,0.003,A,Siena College/NYT
-VA-02,10/22/2018,0.45,0.42,508,Likely,0.003,A,Siena College/NYT
+IL-12,10/22/2018,0.39,0.48,502,Likely,0.003,A,Siena College/NYT
+VA-02,10/22/2018,0.42,0.45,508,Likely,0.003,A,Siena College/NYT
 VA-05,10/22/2018,0.46,0.45,501,Likely,0.003,A,Siena College/NYT
 WI-01,10/21/2018,0.45,0.44,551,Likely,-0.012,C,Change Research
 CA-48,10/21/2018,0.48,0.5,372,Likely,-0.001,A,Monmouth University
@@ -436,4 +436,13 @@ MT-01,10/13/2018,0.41,0.44,471,Likely,0,B,MSU Billings
 MT-01,10/6/2018,0.4,0.48,2079,Registered,0,D,MSU Bozeman
 VA-10,8/27/2018,0.5,0.43,400,Likely,0,C,Global Strategy Group
 CA-39,10/23/2018,0.47,0.46,496,Likely,0,A,Siena College/NYT
-NM-02,10/23/2018,0.45,0.44,522,Likely,0,A,Siena College/NYT
+NM-02,10/23/2018,0.44,0.45,522,Likely,0,A,Siena College/NYT
+NJ-02,10/23/2018,0.55,0.38,597,Likely,0,B,Stockton University
+GA-06,10/22/2018,0.47,0.48,400,Likely,0,D,Thirty-Ninth Street Strategies
+NJ-03,10/22/2018,0.48,0.46,363,Likely,0,A,Monmouth University
+SD-01,10/22/2018,0.31,0.54,500,Likely,0,B,Mason-Dixon Polling
+VA-10,10/21/2018,0.53,0.43,430,Likely,0,A,Washington Post/George Mason
+OR-02,10/12/2018,0.4,0.49,400,Likely,0,D,Patinkin Research Strategies
+OH-01,10/24/2018,0.41,0.5,492,Likely,0,A,Siena College/NYT
+CA-49,10/24/2018,0.53,0.49,500,Likely,0,A,Siena College/NYT
+FL-26,10/24/2018,0.45,0.44,499,Likely,0,A,Siena College/NYT
