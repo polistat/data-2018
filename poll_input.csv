@@ -262,7 +262,7 @@ VA-10,9/30/2018,0.5,0.44,374,Likely,0.011,A,Monmouth University
 IL-06,4/23/2018,0.44,0.45,401,Likely,-0.031,B,Garin-Hart-Yang Research Group
 KS-03,8/15/2018,0.48,0.43,400,Likely,-0.016,C,Global Strategy Group
 FL-07,8/30/2018,0.47,0.46,435,Registered,0.002,B,St. Pete Polls
-KS-03,9/20/2018,0.4,0.43,610,Likely,0.042,D,Remington Research Group
+KS-03,9/20/2018,0.4,0.43,610,Likely,0.042,C,Remington Research Group
 KS-03,9/23/2018,0.51,0.43,494,Likely,-0.001,A,Siena College
 VA-02,10/1/2018,0.41,0.49,500,Likely,-0.001,A,Siena College
 KS-03,9/28/2018,0.47,0.41,246,Registered,-0.009,B,Emerson College
@@ -384,7 +384,7 @@ UT-02,10/17/2018,0.29,0.52,401,Registered,0.003,D,Univeristy of Utah
 GA-07,10/14/2018,0.32,0.59,400,Likely,0.071,C,McLauglin & Associates
 AR-02,10/18/2018,0.4,0.52,590,Likely,0.02,B,Hendrix College
 ND-01,10/19/2018,0.35,0.56,650,Likely,0.029,D,Strategic Research Associates
-FL-15,10/18/2018,0.41,0.47,1369,Likely,0.047,D,Remington Research Group
+FL-15,10/18/2018,0.41,0.47,1369,Likely,0.047,C,Remington Research Group
 GA-07,10/18/2018,0.43,0.49,500,Likely,-0.014,D,JMC Analytics / Bold Blue
 NH-02,10/18/2018,0.53,0.38,234,Likely,0.006,B,University of New Hampshire
 NH-01,10/18/2018,0.46,0.37,265,Likely,0.006,B,University of New Hampshire
@@ -517,3 +517,15 @@ KS-01,10/28/2018,0.36,0.51,221,Likely,0,B,Emerson College
 MT-01,10/26/2018,0.48,0.48,782,Likely,0,C,Gravis Marketing
 NY-19,10/28/2018,0.49,0.44,372,Likely,0,A,Monmouth University
 PA-01,10/29/2018,0.46,0.47,502,Likely,0,A,Siena College/NYT
+FL-27,10/28/2018,0.49,0.39,500,Likely,0,C,Anzalone Liszt Grove
+OH-07,10/26/2018,0.43,0.49,682,Likely,0,C,Change Research
+IA-04,10/24/2018,0.34,0.52,401,Likely,0,B,WPA Intelligence
+KS-01,10/23/2018,0.38,0.42,600,Likely,0,D,Jayhawk Consulting
+KS-01,10/9/2018,0.26,0.6,1432,Likely,0,C,Remington Research Group
+OH-07,10/6/2018,0.38,0.45,400,Likely,0,B,Mellman Group
+IA-04,10/6/2018,0.34,0.54,401,Likely,0,B,WPA Intelligence
+MN-02,9/17/2018,0.49,0.41,400,Likely,0,C,Global Strategy Group
+MI-11,8/27/2018,0.34,0.29,400,Likely,0,B,Harper Polling
+IA-04,8/27/2018,0.32,0.53,401,Likely,0,B,WPA Intelligence
+OH-01,8/26/2018,0.45,0.45,500,Likely,0,B,GBA Strategies
+OH-01,7/1/2018,0.47,0.49,500,Likely,0,B,GBA Strategies
