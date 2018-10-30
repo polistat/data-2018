@@ -159,7 +159,7 @@ AZ-02,10/1/2018,0.5,0.39,502,Likely,-0.001,A,Siena College
 OK-02,9/25/2018,0.32,0.46,245,Likely,0.003,B,SoonerPoll.com
 FL-15,9/8/2018,0.48,0.47,400,Likely,-0.018,B,Greenberg Quinlan Rosner (Democracy Corps)
 CA-22,7/25/2018,0.43,0.48,400,Likely,-0.053,B,Tulchin Research
-CO-06,9/13/2018,0.46,0.45,400,Registered,0.05,B,Tarrance Group
+CO-06,9/13/2018,0.44,0.43,400,Registered,0.05,B,Tarrance Group
 IA-01,9/8/2018,0.43,0.38,250,Registered,-0.009,B,Emerson College
 CA-39,9/16/2018,0.41,0.51,300,Likely,-0.011,A,Monmouth University
 LA-03,8/30/2018,0.176,0.745,1417,Likely,-0.011,C,Trafalgar Group
@@ -292,7 +292,7 @@ CA-39,10/2/2018,0.48,0.47,400,Likely,-0.049,B,Tulchin Research
 IL-06,10/1/2018,0.49,0.44,400,Likely,0.0016,B,Garin-Hart-Yang
 MT-01,8/31/2018,0.51,0.38,466,Likely,0,D,University of Montana
 WI-01,7/15/2018,0.41,0.4,401,Likely,0.007,C,Global Strategy Group
-KY-06,10/2/2018,0.51,0.41,501,Likely,0.0001,B,Garin-Hart-Yang Research Group*
+KY-06,10/2/2018,0.51,0.44,501,Likely,0.0001,B,Garin-Hart-Yang Research Group*
 VA-10,10/2/2018,0.51,0.44,794,Likely,0,B,Christopher Newport University
 NH-01,9/27/2018,0.4,0.42,400,Likely,0.0058,C,Onmessage
 CA-10,9/23/2018,0.5,0.45,726,Likely,-0.0025,D,UC Berkley
@@ -300,12 +300,12 @@ CA-50,9/23/2018,0.47,0.49,527,Likely,-0.0025,D,UC Berkley
 CA-49,9/23/2018,0.55,0.41,551,Likely,-0.0025,D,UC Berkley
 CA-45,9/23/2018,0.52,0.45,519,Likely,-0.0025,D,UC Berkley
 CA-25,9/23/2018,0.5,0.46,650,Likely,-0.0025,D,UC Berkley
-KY-06,10/8/2018,0.45,0.48,400,Likely,0.0036,B,Public Opinion Strategies
+KY-06,10/8/2018,0.46,0.48,400,Likely,0.0036,B,Public Opinion Strategies
 FL-16,10/7/2018,0.42,0.52,400,Likely,0.0036,B,Public Opinion Strategies
 NJ-11,10/7/2018,0.48,0.44,356,Likely,-0.0008,A,Monmouth University
-PA-07,10/21/2018,0.49,0.36,766,Likely,-0.0034,D,DeSales University
+PA-07,10/28/2018,0.49,0.38,823,Likely,-0.0034,D,DeSales University
 VA-10,10/5/2018,0.55,0.43,866,Likely,-0.0021,A,Washington Post
-FL-15,10/4/2018,0.39,0.45,418,Likely,0.0063,B,Wilson Perkins Allen
+FL-15,10/4/2018,0.39,0.46,418,Likely,0.0063,B,Wilson Perkins Allen
 NE-02,10/2/2018,0.4,0.49,400,Registered,0.0037,D,Meeting Street Research
 MN-07,9/10/2018,0.53,0.35,500,Likely,-0.0044,C,Anzalone Liszt Grove Research
 WA-08,10/9/2018,0.39,0.43,400,Registered,0.0015,A,Elway Research
@@ -495,3 +495,25 @@ WA-08,9/26/2018,0.46,0.45,505,Likely,0,A,Siena College/NYT
 WA-08,4/22/2018,0.45,0.51,300,Likely,0,B,GBA Strategies
 PA-10,10/21/2018,0.46,0.49,366,Likely,0,C,Susquehanna Polling & Research
 NY-27,10/29/2018,0.4,0.44,501,Likely,0,A,Siena College/NYT
+MN-02,10/14/2018,0.52,0.43,400,Likely,0,C,Global Strategy Group
+IA-04,10/29/2018,0.44,0.45,631,Likely,0,C,Change Research
+KS-02,10/29/2018,0.44,0.45,902,Likely,0,C,Change Research
+WI-06,10/29/2018,0.48,0.5,525,Likely,0,C,Change Research
+IN-09,10/29/2018,0.45,0.52,541,Likely,0,C,Change Research
+IN-05,10/29/2018,0.44,0.5,527,Likely,0,C,Change Research
+MI-01,10/29/2018,0.42,0.54,574,Likely,0,C,Change Research
+MI-06,10/29/2018,0.43,0.46,466,Likely,0,C,Change Research
+OH-02,10/29/2018,0.39,0.52,431,Likely,0,C,Change Research
+IL-16,10/29/2018,0.41,0.55,554,Likely,0,C,Change Research
+FL-18,10/29/2018,0.44,0.53,475,Likely,0,C,Change Research
+NY-01,10/29/2018,0.37,0.52,838,Likely,0,C,Change Research
+CO-03,10/29/2018,0.38,0.53,485,Likely,0,C,Change Research
+CA-50,10/28/2018,0.45,0.48,547,Likely,0,A,SurveyUSA
+NC-02,10/28/2018,0.4,0.49,565,Likely,0,A,SurveyUSA
+KS-04,10/28/2018,0.33,0.63,262,Likely,0,B,Emerson College
+KS-03,10/28/2018,0.55,0.43,262,Likely,0,B,Emerson College
+KS-02,10/28/2018,0.41,0.48,231,Likely,0,B,Emerson College
+KS-01,10/28/2018,0.36,0.51,221,Likely,0,B,Emerson College
+MT-01,10/26/2018,0.48,0.48,782,Likely,0,C,Gravis Marketing
+NY-19,10/28/2018,0.49,0.44,372,Likely,0,A,Monmouth University
+PA-01,10/29/2018,0.46,0.47,502,Likely,0,A,Siena College/NYT
