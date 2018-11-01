@@ -260,7 +260,7 @@ CA-50,10/1/2018,0.44,0.45,400,Likely,-0.006,B,Tulchin Research
 CO-06,7/11/2018,0.41,0.44,400,Likely,-0.0024,B,"Normington, Petts, and Associates"
 VA-10,9/30/2018,0.5,0.44,374,Likely,0.011,A,Monmouth University
 IL-06,4/23/2018,0.44,0.45,401,Likely,-0.031,B,Garin-Hart-Yang Research Group
-KS-03,8/15/2018,0.48,0.43,400,Likely,-0.016,C,Global Strategy Group
+KS-03,8/15/2018,0.46,0.43,400,Likely,-0.016,C,Global Strategy Group
 FL-07,8/30/2018,0.47,0.46,435,Registered,0.002,B,St. Pete Polls
 KS-03,9/20/2018,0.4,0.43,610,Likely,0.042,C,Remington Research Group
 KS-03,9/23/2018,0.51,0.43,494,Likely,-0.001,A,Siena College
@@ -529,3 +529,15 @@ MI-11,8/27/2018,0.34,0.29,400,Likely,0,B,Harper Polling
 IA-04,8/27/2018,0.32,0.53,401,Likely,0,B,WPA Intelligence
 OH-01,8/26/2018,0.45,0.45,500,Likely,0,B,GBA Strategies
 OH-01,7/1/2018,0.47,0.49,500,Likely,0,B,GBA Strategies
+PA-16,10/30/2018,0.51,0.47,405,Likely,0,C,Susquehanna Polling & Research
+ND-01,10/30/2018,0.33,0.55,789,Likely,0,A,Fox News
+PA-08,10/29/2018,0.57,0.4,446,Likely,0,C,Susquehanna Polling & Research
+NH-02,10/29/2018,0.52,0.4,569,Likely,0,B,Emerson College
+NH-01,10/29/2018,0.48,0.46,570,Likely,0,B,Emerson College
+ME-02,10/29/2018,0.47,0.46,441,Likely,0,B,Emerson College
+ME-01,10/29/2018,0.56,0.31,442,Likely,0,B,Emerson College
+NY-19,10/29/2018,0.44,0.44,609,Likely,0,A,SurveyUSA
+PA-13,10/26/2018,0.36,0.57,303,Likely,0,C,Susquehanna Polling & Research
+NJ-07,10/29/2018,0.47,0.44,356,Likely,0,A,Monmouth University
+KS-02,10/30/2018,0.41,0.37,501,Likely,0,A,Siena College/NYT
+NC-09,10/30/2018,0.44,0.45,505,Likely,0,A,Siena College/NYT
