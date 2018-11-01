@@ -58,3 +58,8 @@ date,dem_percent,rep_percent,sample_size,registered_voter,pollster_lean,pollster
 10/21/2018,0.48,0.39,821,Registered,0,D,Public Religion Research
 10/1/2018,0.57,0.39,2509,Voters,0,D,Public Religion Research
 10/29/2018,0.49,0.42,1375,Likely,0,B,Ipsos
+10/30/2018,0.47,0.42,1296,Registered,0,B,YouGov
+10/30/2018,0.46,0.38,2543,Registered,0,B,Morning Consult
+10/28/2018,0.47,0.38,1835,Registered,0,C,Harris Interactive
+10/25/2018,0.47,0.44,2500,Likely,0,C,Rasmussen
+10/14/2018,0.39,0.29,1152,Voters,0,D,AP-NORC
