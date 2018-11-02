@@ -65,3 +65,5 @@ date,dem_percent,rep_percent,sample_size,registered_voter,pollster_lean,pollster
 10/14/2018,0.39,0.29,1152,Voters,0,D,AP-NORC
 10/29/2018,0.52,0.43,509,Likely,0,A,Marist
 10/30/2018,0.49,0.42,1383,Likely,0,B,Ipsos
+11/1/2018,0.48,0.43,2117,Likely,0,C,Harris Interactive
+10/25/2018,0.53,0.47,826,Likely,0,B,Lucid
