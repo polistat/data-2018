@@ -73,3 +73,7 @@ date,dem_percent,rep_percent,sample_size,registered_voter,pollster_lean,pollster
 11/3/2018,0.5,0.41,798,likely,0,A,IBD/TIPP
 11/1/2018,0.52,0.44,737,likely,0,A,ABC News/Washington Post
 11/1/2018,0.48,0.43,2117,likely,0,C,Harris Interactive
+11/3/2018,0.55,0.42,1151,Likely,0,A,CNN/SSRS
+11/3/2018,0.56,0.42,2521,Likely,0,C,USC Dornsife/LA Times
+11/2/2018,0.43,0.4,1961,Registered,0,B,Morning Consult
+11/1/2018,0.45,0.46,2500,Likely,0,C,Rasmussen
