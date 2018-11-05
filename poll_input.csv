@@ -6,7 +6,7 @@ KY-06,9/17/2018,0.47,0.47,600,Likely,0.0012,C,Rasmussen Reports/Pulse Opinion Re
 AR-04,9/7/2018,0.24,0.54,423,Likely,0.011,B,Hendrix College
 NY-22,8/26/2018,0.46,0.44,499,Likely,-0.001,A,Siena College
 NY-01,9/17/2018,0.44,0.47,400,Likely,-0.022,C,Global Strategy Group
-AK-01,6/12/2018,0.36,0.4,540,Likely,-0.038,D,Lake Research Partners
+AK-01,6/12/2018,0.36,0.4,540,Likely,-0.038,B,Lake Research Partners
 MN-01,8/26/2018,0.33,0.47,400,Likely,0.041,B,Harper Polling
 KY-06,2/7/2018,0.44,0.48,401,Likely,-0.041,B,Garin-Hart-Yang Research Group
 NJ-03,2/15/2018,0.43,0.47,336,Voters,-0.021,B,Public Policy Polling
@@ -318,7 +318,7 @@ NY-27,10/8/2018,0.42,0.42,400,Likely,-0.0049,B,Tulchin Research
 FL-27,10/6/2018,0.42,0.44,625,Likely,-0.001,B,Mason Dixon
 NJ-03,10/4/2018,0.4,0.44,400,Likely,-0.003,B,National Research
 IL-12,7/30/2018,0.41,0.5,400,Likely,-0.0018,C,Global Strategy
-AK-01,10/6/2018,0.46,0.5,500,Likely,0.04,D,Alaska Survey Research
+AK-01,10/6/2018,0.46,C,500,Likely,0.04,D,Ivan Moore Research
 AK-01,10/12/2018,0.43,0.46,645,Voters,-0.022,B,Public Policy Polling
 MN-08,10/14/2018,0.34,0.49,507,Likely,-0.001,A,Siena College
 WA-03,10/11/2018,0.45,0.43,400,Likely,-0.034,B,Lake Research
@@ -359,7 +359,7 @@ NY-27,10/11/2018,0.43,0.46,490,Likely,0.006,A,Siena College
 PA-16,10/10/2018,0.48,0.49,548,Likely,-0.031,C,DCCC Targeting Team
 MI-02,7/15/2018,0.28,0.5,400,Likely,-0.034,B,Lake Research
 KS-03,10/17/2018,0.48,0.39,503,Likely,0.006,A,Siena College/NYT
-AK-01,10/14/2018,0.47,0.49,500,Registered,0.006,D,Alaska Survey Research
+AK-01,10/14/2018,0.47,0.49,500,Registered,0.006,C,Ivan Moore Research
 MI-11,10/14/2018,0.48,0.39,513,Likely,-0.036,C,Anzalone Liszt Grove
 UT-03,10/9/2018,0.13,0.67,143,Registered,-0.001,D,University of Utah
 UT-01,10/9/2018,0.2,0.52,143,Registered,-0.001,D,University of Utah
@@ -469,7 +469,7 @@ NM-03,10/26/2018,0.54,0.37,331,Likely,0,B,Emerson College
 NM-02,10/26/2018,0.47,0.47,278,Likely,0,B,Emerson College
 NM-01,10/26/2018,0.51,0.41,327,Likely,0,B,Emerson College
 NE-02,10/25/2018,0.45,0.52,350,Likely,0,B,DFM Research
-AK-01,9/25/2018,0.43,0.54,500,Likely,0,D,Alaska Survey Research
+AK-01,9/25/2018,0.43,0.54,500,Likely,0,C,Ivan Moore Research
 AZ-06,10/15/2018,0.36,0.5,500,Likely,0,A,Siena College/NYT
 AZ-08,9/26/2018,0.44,0.48,400,Likely,0,B,Lake Research
 AZ-08,8/13/2018,0.4,0.49,400,Likely,0,B,Lake Research
@@ -490,7 +490,7 @@ UT-04,10/18/2017,0.42,0.48,402,Registered,0,C,Dan Jones & Associates
 VA-10,10/15/2018,0.48,0.41,484,Likely,0,A,Siena College/NYT
 VA-10,10/9/2018,0.49,0.39,400,Likely,0,C,Global Strategy Group
 WA-03,6/18/2018,0.37,0.42,500,Likely,0,B,Lake Research
-WA-03,3/12/2018,0.29,0.49,400,Likely,0,A,Lake Research
+WA-03,3/12/2018,0.29,0.49,400,Likely,0,B,Lake Research
 WA-08,9/26/2018,0.46,0.45,505,Likely,0,A,Siena College/NYT
 WA-08,4/22/2018,0.45,0.51,300,Likely,0,B,GBA Strategies
 PA-10,10/21/2018,0.46,0.49,366,Likely,0,C,Susquehanna Polling & Research
