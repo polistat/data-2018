@@ -78,3 +78,5 @@ date,dem_percent,rep_percent,sample_size,registered_voter,pollster_lean,pollster
 11/2/2018,0.43,0.4,1961,Registered,0,B,Morning Consult
 11/1/2018,0.45,0.46,2500,Likely,0,C,Rasmussen
 10/25/2018,0.48,0.4,2321,Registered,0,B,YouGov
+11/5/2018,0.51,0.41,2113,Likely,0,C,Harris Interactive
+11/3/2018,0.43,0.37,1000,Registered,0,C,Harris Interactive
